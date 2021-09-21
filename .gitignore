@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/src/typescript/hello.js
+/src/typescript/HelloWorld.js
