@@ -1,6 +1,6 @@
 function fizzbuzz(jumlah){
     for(let i = 1; i <= jumlah; i++){
-        const data1 = i % 3 === 0 && i % 5 === 0
+        const data1 = i % 3 === 0 && i % 5 === 0;
         const data2 = i % 3 === 0;
         const data3 = i % 5 === 0;
         if(data1){
